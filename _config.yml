@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+title: AGAPE-ANR
+description: AGAPE-ANR project
+
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
