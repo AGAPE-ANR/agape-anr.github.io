@@ -8,7 +8,7 @@ permalink: /consortium/
 <table>
     	<tr>
     	<td>
-		<h3>LASTIG (IGN-ENSG, Gustave Eiffel University) (project coordinator)</h3>
+		<h3><a href="https://www.umr-lastig.fr/" target=new> LASTIG</a> (IGN-ENSG, Gustave Eiffel University) (project coordinator)</h3>
 		<ul>
 			<li> Data provider (photographs, LiDAR HD) </li>
 			<li> Multimodal indexing and retrieval for data linking</li>
