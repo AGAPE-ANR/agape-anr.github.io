@@ -3,15 +3,6 @@ layout: default
 title: About
 permalink: /about/
 ---
-
-<table>
-<tr>
-	<td width="20%"><img src="/images/logo_AGAPE-cropwhite.png" width="100%" alt="AGAPE logo"></td>
-	<td><h1 align="left">AGAPE</h1><h2 align="left">discoverAbility and investiGation in spAtial iconograPhic hEritage</h2>
-</td>
-</tr>
-</table>
-
 # Objectives of the project
 
 With the acceleration of open data policies in France aimed at promoting the circulation and valorization of public data, and the proliferation of information on the Internet, it is now possible to access multiple multimedia contents related to cultural and natural heritage that describe or illustrate a place. AGAPE has the ambition of aggregating and processing such data, with a focus on visual-based documents (from iconography, videos to 3D point clouds, including textual descriptions). 
