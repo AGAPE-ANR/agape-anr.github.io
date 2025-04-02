@@ -8,7 +8,7 @@ permalink: /consortium/
 <table>
     	<tr>
     	<td>
-		<h3>LASTIG, IGN-ENSG, Gustave Eiffel University (project coordinator)</h3>
+		<h3>LASTIG (IGN-ENSG, Gustave Eiffel University) (project coordinator)</h3>
 		<ul>
 			<li> Data provider (photographs, LiDAR HD) </li>
 			<li> Multimodal indexing and retrieval for data linking</li>
@@ -20,7 +20,7 @@ permalink: /consortium/
     	</tr>
 	<tr>
     	<td>
-		<h3>LINKMEDIA, IRISA</h3>
+		<h3>LINKMEDIA (IRISA)</h3>
 		<ul>
 			<li>Multimodal entity linking</li>
 			<li>Reasoning through links for enrichment and verification</li>
@@ -30,7 +30,7 @@ permalink: /consortium/
     	</tr>
 	<tr>
     	<td>
-		<h3>LIRIS, Lyon II Univ, CPE Lyon, INSA Lyon</h3>
+		<h3>LIRIS (Lyon II Univ, CPE Lyon, INSA Lyon)</h3>
 		<ul>
 			<li>Integration models for multimedia data in a 3D geographic environment</li>
 			<li>3D visualization, navigation and interaction</li>
@@ -40,7 +40,7 @@ permalink: /consortium/
     	</tr>
 	<tr>
     	<td>
-		<h3>ILDA, Inria Saclay</h3>
+		<h3>ILDA (Inria Saclay)</h3>
 		<ul>
 			<li>Hypergraph visualization for storytelling</li>
 			<li>3D visualization, navigation and interaction</li>
@@ -71,7 +71,7 @@ permalink: /consortium/
     	</tr>
 	<tr>
     	<td>
-		<h3>ACP, Gustave Eiffel University</h3>
+		<h3>ACP (Gustave Eiffel University)</h3>
 		<ul>
 			<li>Visualization for the investigation of disappeared substandard housing</li>
 		</ul>
