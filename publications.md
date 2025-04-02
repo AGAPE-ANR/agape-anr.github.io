@@ -3,6 +3,6 @@ layout: default
 title: Publications
 permalink: /publications/
 ---
-# Publications
+<h2> Publications</h2>
 
 In progress.
