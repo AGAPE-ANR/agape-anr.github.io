@@ -30,7 +30,6 @@ permalink: /consortium/
 	<td width="20%"><img src="/images/logo_FTV.png" width="100%" alt="France.tv logo"></td>
     	</tr>
 	<tr>
-	<tr>
     	<td>ACP, Gustave Eiffel University</td>
 	<td width="20%"><img src="/images/logo_ACP.png" width="100%" alt="ACP logo"></td>
     	</tr>
