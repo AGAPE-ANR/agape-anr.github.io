@@ -62,7 +62,7 @@ permalink: /consortium/
     	</tr>
 	<tr>
     	<td>
-		<h3>France Televisions</h3>
+		<h3><a href="https://www.france.tv/" target=new> France Televisions</a></h3>
 		<ul>
 			<li>Storytelling for understanding and engagement</li>
 		</ul>
