@@ -2,5 +2,7 @@
 layout: default
 title: Home
 ---
-# AGAPE-ANR
-AGAPE-ANR project
+AGAPE-ANR
+============
+discoverAbility and investiGation in spAtial iconograPhic hEritage
+---------------------------------------------------------------------
