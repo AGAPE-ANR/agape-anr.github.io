@@ -71,7 +71,7 @@ permalink: /consortium/
     	</tr>
 	<tr>
     	<td>
-		<h3>ACP (Gustave Eiffel University)</h3>
+		<h3><a href="https://acp.univ-gustave-eiffel.fr/" target=new> ACP</a> (Gustave Eiffel University)</h3>
 		<ul>
 			<li>Visualization for the investigation of disappeared substandard housing</li>
 		</ul>
