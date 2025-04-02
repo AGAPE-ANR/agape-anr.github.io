@@ -4,7 +4,7 @@ title: Home
 ---
 <h1 align="center">AGAPE</h1>
 
-## discoverAbility and investiGation in spAtial iconograPhic hEritage
+<h2 align="center">discoverAbility and investiGation in spAtial iconograPhic hEritage</h2>
 
 <span style="color: #26B260;">Essai couleur</span>
 
