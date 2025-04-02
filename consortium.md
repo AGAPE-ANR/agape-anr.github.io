@@ -19,13 +19,13 @@ permalink: /consortium/
 	<td width="20%"><img src="/images/logo_LASTIG.png" width="100%" alt="LASTIG logo"></td>
     	</tr>
 	<tr>
-    	<td><p>
+    	<td>
 		<h3>LINKMEDIA, IRISA</h3>
 		<ul>
 			<li>Multimodal entity linking</li>
 			<li>Reasoning through links for enrichment and verification</li>
 		</ul>
-	</p></td>
+	</td>
 	<td width="20%"><img src="/images/logo_IRISA.png" width="100%" alt="IRISA logo"></td>
     	</tr>
 	<tr>
