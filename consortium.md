@@ -13,6 +13,7 @@ permalink: /consortium/
 			<li> Data provider (photographs, LiDAR HD) </li>
 			<li> Multimodal indexing and retrieval for data linking</li>
 			<li> Content-based spatialization</li>
+			<li>Reasoning through links for enrichment and verification</li>
 		</ul>
 	</p></td>
 	<td width="20%"><img src="/images/logo_LASTIG.png" width="100%" alt="LASTIG logo"></td>
@@ -28,7 +29,13 @@ permalink: /consortium/
 	<td width="20%"><img src="/images/logo_LIRIS.png" width="100%" alt="LIRIS logo"></td>
     	</tr>
 	<tr>
-    	<td>LINKMEDIA, IRISA</td>
+    	<td><p>
+		<h3>LINKMEDIA, IRISA</h3>
+		<ul>
+			<li>Multimodal entity linking</li>
+			<li>Reasoning through links for enrichment and verification</li>
+		</ul>
+	</p></td>
 	<td width="20%"><img src="/images/logo_IRISA.png" width="100%" alt="IRISA logo"></td>
     	</tr>
 	<tr>
