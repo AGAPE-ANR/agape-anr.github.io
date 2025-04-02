@@ -7,7 +7,7 @@ permalink: /consortium/
 
 <table>
     	<tr>
-    	<td><p>
+    	<td>
 		<h3>LASTIG, IGN-ENSG, Gustave Eiffel University (project coordinator)</h3>
 		<ul>
 			<li> Data provider (photographs, LiDAR HD) </li>
@@ -15,7 +15,7 @@ permalink: /consortium/
 			<li> Content-based spatialization</li>
 			<li>Reasoning through links for enrichment and verification</li>
 		</ul>
-	</p></td>
+	</td>
 	<td width="20%"><img src="/images/logo_LASTIG.png" width="100%" alt="LASTIG logo"></td>
     	</tr>
 	<tr>
