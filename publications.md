@@ -5,4 +5,4 @@ permalink: /publications/
 ---
 <h2> Publications</h2>
 
-In progress.
+It's coming!
