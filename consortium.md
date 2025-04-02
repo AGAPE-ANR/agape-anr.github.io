@@ -7,17 +7,24 @@ permalink: /consortium/
 
 <table>
     	<tr>
-    	<td>
-		<p><h3>LASTIG, IGN-ENSG, Gustave Eiffel University</h3>
+    	<td><p>
+		<h3>LASTIG, IGN-ENSG, Gustave Eiffel University</h3>
 		<ul>
+			<li> Data provider (photographs, LiDAR HD) </li>
 			<li> Multimodal indexing and retrieval for data linking</li>
 			<li> Content-based spatialization</li>
-		</ul></p>
-	</td>
+		</ul>
+	</p></td>
 	<td width="20%"><img src="/images/logo_LASTIG.png" width="100%" alt="LASTIG logo"></td>
     	</tr>
 	<tr>
-    	<td>LIRIS, Lyon II Univ, CPE Lyon, INSA Lyon</td>
+    	<td><p>
+		<h3>LIRIS, Lyon II Univ, CPE Lyon, INSA Lyon</h3>
+		<ul>
+			<li>Integration models for multimedia data in a 3D geographic environment</li>
+			<li>3D visualization, navigation and interaction</li>
+		</ul>
+	</p></td>
 	<td width="20%"><img src="/images/logo_LIRIS.png" width="100%" alt="LIRIS logo"></td>
     	</tr>
 	<tr>
