@@ -20,7 +20,7 @@ permalink: /consortium/
     	</tr>
 	<tr>
     	<td>
-		<h3><a href="https://team.inria.fr/linkmedia/" target=new> LINKMEDIA</a> (IRISA)</h3>
+		<h3><a href="https://team.inria.fr/linkmedia/" target=new> Linkmedia</a> (IRISA)</h3>
 		<ul>
 			<li>Multimodal entity linking</li>
 			<li>Reasoning through links for enrichment and verification</li>
@@ -40,7 +40,7 @@ permalink: /consortium/
     	</tr>
 	<tr>
     	<td>
-		<h3>ILDA (Inria Saclay)</h3>
+		<h3><a href="https://ilda.saclay.inria.fr/" target=new> ILDA</a> (Inria Saclay)</h3>
 		<ul>
 			<li>Hypergraph visualization for storytelling</li>
 			<li>3D visualization, navigation and interaction</li>
