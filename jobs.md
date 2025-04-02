@@ -3,6 +3,6 @@ layout: default
 title: Jobs
 permalink: /jobs/
 ---
-# Jobs
+<h2> Jobs</h2>
 
 In progress.
