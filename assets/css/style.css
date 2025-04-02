@@ -9,6 +9,10 @@ header {
   padding: 1em 0;
 }
 
+h2 {
+  color: #fe7211;
+  }
+
 nav ul {
   list-style-type: none;
   margin: 0;
