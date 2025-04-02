@@ -13,6 +13,10 @@ h2 {
   color: #fe7211;
   }
 
+p {
+  text-justify: auto;
+  }
+
 nav ul {
   list-style-type: none;
   margin: 0;
