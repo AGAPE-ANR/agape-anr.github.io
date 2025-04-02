@@ -30,7 +30,7 @@ permalink: /consortium/
     	</tr>
 	<tr>
     	<td>
-		<h3>LIRIS (Lyon II Univ, CPE Lyon, INSA Lyon)</h3>
+		<h3><a href="https://liris.cnrs.fr/" target=new> LIRIS</a> (Lyon II Univ, CPE Lyon, INSA Lyon)</h3>
 		<ul>
 			<li>Integration models for multimedia data in a 3D geographic environment</li>
 			<li>3D visualization, navigation and interaction</li>
