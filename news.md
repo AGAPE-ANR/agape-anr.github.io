@@ -14,6 +14,6 @@ permalink: /news/
 			<li>Kick-off of the project </li>
 		</ul>
 	</td>
-	<td width="20%"><img src="/images/photo_kickoff-23jan25.jpg" width="100%" alt="Photo kick-off"></td>
+	<td><img src="/images/photo_kickoff-23jan25.jpg" width="100%" alt="Photo kick-off"></td>
   </tr>
 <table>
