@@ -52,19 +52,30 @@ permalink: /consortium/
     	<td><p>
 		<h3>Archives nationales de France</h3>
 		<ul>
-			<li>Data provider (photographs and videos)</li>
+			<li>Data provider (documented photographs and videos)</li>
 			<li>Metadata and link modeling</li>
 			<li>Reasoning through links for enrichment and verification</li>
+			<li>Advanced linking for the exploration of archival resources and knowledge creation</li>
 		</ul>
 	</p></td>
 	<td width="20%"><img src="/images/logo_AnF.gif" width="100%" alt="AnF logo"></td>
     	</tr>
 	<tr>
-    	<td>France Televisions</td>
+    	<td><p>
+		<h3>France Televisions</h3>
+		<ul>
+			<li>Storytelling for understanding and engagement</li>
+		</ul>
+	</p></td>
 	<td width="20%"><img src="/images/logo_FTV.png" width="100%" alt="France.tv logo"></td>
     	</tr>
 	<tr>
-    	<td>ACP, Gustave Eiffel University</td>
+    	<td><p>
+		<h3>ACP, Gustave Eiffel University</h3>
+		<ul>
+			<li>Visualization for the investigation of disappeared substandard housing</li>
+		</ul>
+	</p></td>
 	<td width="20%"><img src="/images/logo_ACP.png" width="100%" alt="ACP logo"></td>
     	</tr>
 </table>
