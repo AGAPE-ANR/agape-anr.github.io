@@ -3,5 +3,5 @@ layout: default
 title: Contact
 permalink: /contact/
 ---
-# Contact
+<h2>Contact</h2>
 In Progress.
