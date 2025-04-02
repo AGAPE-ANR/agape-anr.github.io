@@ -3,7 +3,7 @@ layout: default
 title: About
 permalink: /about/
 ---
-# Objectives of the project
+<h2> Objectives of the project </h2>
 
 With the acceleration of open data policies in France aimed at promoting the circulation and valorization of public data, and the proliferation of information on the Internet, it is now possible to access multiple multimedia contents related to cultural and natural heritage that describe or illustrate a place. AGAPE has the ambition of aggregating and processing such data, with a focus on visual-based documents (from iconography, videos to 3D point clouds, including textual descriptions). 
 
