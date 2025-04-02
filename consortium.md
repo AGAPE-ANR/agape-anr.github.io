@@ -15,7 +15,11 @@ permalink: /consortium/
 	<td width="20%"><img src="/images/logo_LIRIS.png" width="100%" alt="LIRIS logo"></td>
     	</tr>
 	<tr>
-    	<td>IRISA</td>
+    	<td>LINKMEDIA, IRISA</td>
 	<td width="20%"><img src="/images/logo_IRISA.png" width="100%" alt="IRISA logo"></td>
+    	</tr>
+	<tr>
+    	<td>ILDA, Inria Saclay</td>
+	<td width="20%"><img src="/images/logo_Inria.png" width="100%" alt="Inria logo"></td>
     	</tr>
 </table>
