@@ -34,5 +34,4 @@ permalink: /consortium/
     	<td>ACP, Gustave Eiffel University</td>
 	<td width="20%"><img src="/images/logo_ACP.png" width="100%" alt="ACP logo"></td>
     	</tr>
-	<tr>
 </table>
