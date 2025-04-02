@@ -8,7 +8,7 @@ permalink: /consortium/
 <table>
     	<tr>
     	<td>
-		<p><b>LASTIG, IGN-ENSG, Gustave Eiffel University</b>
+		<p><h3>LASTIG, IGN-ENSG, Gustave Eiffel University</h3>
 		<ul>
 			<li> Multimodal indexing and retrieval for data linking</li>
 			<li> Content-based spatialization</li>
