@@ -28,6 +28,6 @@ permalink: /consortium/
     	</tr>
 	<tr>
     	<td>Archives nationales de France</td>
-	<td width="20%"><img src="/images/logo_AnF.png" width="100%" alt="AnF logo"></td>
+	<td width="20%"><img src="/images/logo_AnF.gif" width="100%" alt="AnF logo"></td>
     	</tr>
 </table>
