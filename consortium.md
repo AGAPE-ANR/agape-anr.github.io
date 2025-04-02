@@ -22,4 +22,12 @@ permalink: /consortium/
     	<td>ILDA, Inria Saclay</td>
 	<td width="20%"><img src="/images/logo_Inria.png" width="100%" alt="Inria logo"></td>
     	</tr>
+	<tr>
+    	<td>ACP, Gustave Eiffel University</td>
+	<td width="20%"><img src="/images/logo_ACP.png" width="100%" alt="ACP logo"></td>
+    	</tr>
+	<tr>
+    	<td>Archives nationales de France</td>
+	<td width="20%"><img src="/images/logo_AnF.png" width="100%" alt="AnF logo"></td>
+    	</tr>
 </table>
