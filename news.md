@@ -6,7 +6,7 @@ permalink: /news/
 
 <h2> News!</h2>
 
-<table width="60%">
+<table width="75%">
     	<tr>
     	<td>
 		<h3>January 23, 2025 - IGN - Saint-Mandé</h3>
