@@ -4,7 +4,7 @@ title: Home
 ---
 <table>
 <tr>
-	<td width="20%"><img src="/images/logo_AGAPE-cropwhite.png" width="20%" alt="AGAPE logo"></td>
+	<td width="20%"><img src="/images/logo_AGAPE-cropwhite.png" width="100%" alt="AGAPE logo"></td>
 	<td><h1 align="left">AGAPE</h1><h2 align="left">discoverAbility and investiGation in spAtial iconograPhic hEritage</h2>
 </td>
 </tr>
