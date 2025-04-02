@@ -29,27 +29,27 @@ permalink: /consortium/
 	<td width="20%"><img src="/images/logo_IRISA.png" width="100%" alt="IRISA logo"></td>
     	</tr>
 	<tr>
-    	<td><p>
+    	<td>
 		<h3>LIRIS, Lyon II Univ, CPE Lyon, INSA Lyon</h3>
 		<ul>
 			<li>Integration models for multimedia data in a 3D geographic environment</li>
 			<li>3D visualization, navigation and interaction</li>
 		</ul>
-	</p></td>
+	</td>
 	<td width="20%"><img src="/images/logo_LIRIS.png" width="100%" alt="LIRIS logo"></td>
     	</tr>
 	<tr>
-    	<td><p>
+    	<td>
 		<h3>ILDA, Inria Saclay</h3>
 		<ul>
 			<li>Hypergraph visualization for storytelling</li>
 			<li>3D visualization, navigation and interaction</li>
 		</ul>
-	</p></td>
+	</td>
 	<td width="20%"><img src="/images/logo_Inria.png" width="100%" alt="Inria logo"></td>
     	</tr>
 	<tr>
-    	<td><p>
+    	<td>
 		<h3>Archives nationales de France</h3>
 		<ul>
 			<li>Data provider (documented photographs and videos)</li>
@@ -57,25 +57,25 @@ permalink: /consortium/
 			<li>Reasoning through links for enrichment and verification</li>
 			<li>Advanced linking for the exploration of archival resources and knowledge creation</li>
 		</ul>
-	</p></td>
+	</td>
 	<td width="20%"><img src="/images/logo_AnF.gif" width="100%" alt="AnF logo"></td>
     	</tr>
 	<tr>
-    	<td><p>
+    	<td>
 		<h3>France Televisions</h3>
 		<ul>
 			<li>Storytelling for understanding and engagement</li>
 		</ul>
-	</p></td>
+	</td>
 	<td width="20%"><img src="/images/logo_FTV.png" width="100%" alt="France.tv logo"></td>
     	</tr>
 	<tr>
-    	<td><p>
+    	<td>
 		<h3>ACP, Gustave Eiffel University</h3>
 		<ul>
 			<li>Visualization for the investigation of disappeared substandard housing</li>
 		</ul>
-	</p></td>
+	</td>
 	<td width="20%"><img src="/images/logo_ACP.png" width="100%" alt="ACP logo"></td>
     	</tr>
 </table>
