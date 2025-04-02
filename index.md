@@ -12,6 +12,6 @@ title: Home
 
 <span style="color: #26B260;">Essai couleur</span>
 
-# Objectives of the project
+# At a glance
 
 AGAPE is a French 4-year project funded by the French National Research Agency, started in January 2025. The project focuses on the discoverability and investigation in spatial iconographic heritage and brings together 7 partners specialized in Computer Science, Artificial Intelligence and Multimedia (LASTIG, LIRIS, LINKMEDIA and ILDA) as well as in Archives (Archives nationales de France), History (ACP) and Media (France Televisions).
