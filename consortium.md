@@ -14,4 +14,8 @@ permalink: /consortium/
     	<td>LIRIS, Lyon II Univ, CPE Lyon, INSA Lyon</td>
 	<td width="20%"><img src="/images/logo_LIRIS.png" width="100%" alt="LIRIS logo"></td>
     	</tr>
+	<tr>
+    	<td>IRISA</td>
+	<td width="20%"><img src="/images/logo_IRISA.png" width="100%" alt="IRISA logo"></td>
+    	</tr>
 </table>
