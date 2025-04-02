@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<h2> <span style="color: #fe7211;">At a glance</span> </h2>
+<h2> At a glance</h2>
 
 **How.** AGAPE is a French 4-year project funded by the French National Research Agency, started in January 2025. 
 
