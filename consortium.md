@@ -20,7 +20,7 @@ permalink: /consortium/
     	</tr>
 	<tr>
     	<td>
-		<h3>LINKMEDIA (IRISA)</h3>
+		<h3><a href="https://team.inria.fr/linkmedia/" target=new> LINKMEDIA</a> (IRISA)</h3>
 		<ul>
 			<li>Multimodal entity linking</li>
 			<li>Reasoning through links for enrichment and verification</li>
