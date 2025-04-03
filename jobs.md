@@ -19,6 +19,6 @@ permalink: /jobs/
 	<td><a href="../docs/sujet_stage_2025-Loc3D-ext-EN.pdf" target=new>Large-scale place recognition in 3D points clouds</a></td>
 	<td>LASTIG</td>
 	<td>2025</td>
-	<td>Closed</td>
+	<td><span style="color: #fe7211;">Closed</span></td>
 </tr>
 <table>
