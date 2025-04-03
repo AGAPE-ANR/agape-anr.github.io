@@ -14,7 +14,7 @@ permalink: /jobs/
     <th>Status</th>
 </tr>
 <tr>
-	<td>Master's internship M2</td>
+	<td style="text-align: center; vertical-align: middle;">Master's internship M2</td>
 	<td><a href="../docs/sujet_stage_2025-Loc3D-ext-EN.pdf" target=new>Large-scale place recognition in 3D points clouds</a></td>
 	<td>LASTIG</td>
 	<td>2025</td>
