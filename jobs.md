@@ -9,7 +9,7 @@ permalink: /jobs/
 <table width="80%" border="1" cellpadding="8" style="text-align: center; vertical-align: middle;">
 <tr>
     <th>Type</th>
-    <th>Title</th>
+    <th>Title and description</th>
     <th>Host</th>
     <th>Period</th>
     <th>Status</th>
