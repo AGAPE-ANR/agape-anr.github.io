@@ -6,7 +6,7 @@ permalink: /jobs/
 <h2> Jobs</h2>
 <p>We regularly offer job opportunities (internships, PhD, post-doc, engineer, etc.).</p>
 
-<table width="80%" border="1" cellpadding="8" style="text-align: center; vertical-align: middle;">
+<table width="90%" border="1" cellpadding="8" style="text-align: center; vertical-align: middle;">
 <tr>
     <th>Type</th>
     <th>Title and description</th>
