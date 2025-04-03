@@ -5,7 +5,7 @@ permalink: /jobs/
 ---
 <h2> Jobs</h2>
 
-<table width="80%" border="1" cellspacing="2" style="text-align: center; vertical-align: middle; border-spacing:4;">
+<table width="80%" border="1" cellspacing="2" style="text-align: center; vertical-align: middle;">
 <tr>
     <th>Type</th>
     <th>Title</th>
