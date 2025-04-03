@@ -16,4 +16,5 @@ title: Home
 <ul>
   <li>[31/03/2025] Workshop <a href="https://sumac-workshops.github.io/2025/" target=new>SUMAC'25</a> @ ACM Multimedia 2025: submit before 13/06/2025!</li>
   <li>[31/03/2025] AGAPE website online!</li>
+  <li>[23/01/2025] Kick-off of the project</li>
 </ul>
