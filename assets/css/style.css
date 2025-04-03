@@ -61,6 +61,10 @@ nav ul li a:hover {
   text-decoration: underline;
 }
 
+nav ul li a:active {
+  text-decoration: underline;
+}
+
 main {
   padding: 2% 12% 2% 12%;
 }
