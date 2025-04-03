@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Consortium
+title: AGAPE - Consortium
 permalink: /consortium/
 ---
 <h2>Consortium</h2>
