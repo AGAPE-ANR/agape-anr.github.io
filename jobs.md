@@ -5,7 +5,7 @@ permalink: /jobs/
 ---
 <h2> Jobs</h2>
 
-<table width="75%">
+<table width="80%">
 <tr>
     <th>Type</th>
     <th>Title</th>
