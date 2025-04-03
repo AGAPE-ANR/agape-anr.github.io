@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: AGAPE - About
 permalink: /about/
 ---
 <h2> Objectives of the project </h2>
