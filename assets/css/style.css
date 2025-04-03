@@ -21,6 +21,10 @@ p {
   text-align: justify;
   }
 
+p a {
+  color: black;
+  }
+
 table {
   margin-left: auto; 
   margin-right: auto;
