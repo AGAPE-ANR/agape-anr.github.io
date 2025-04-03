@@ -29,6 +29,10 @@ p a {
   color: black;
   }
 
+ul a {
+  color: black;
+  }
+
 table {
   margin-left: auto; 
   margin-right: auto;
