@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publications
+title: AGAPE - Publications
 permalink: /publications/
 ---
 <h2> Publications</h2>
