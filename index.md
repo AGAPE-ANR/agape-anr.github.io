@@ -13,3 +13,7 @@ title: Home
 
 <h2> Latest news!</h2>
 
+<ul>
+  <li>[31/03/2025] Workshop <a href="https://sumac-workshops.github.io/2025/" target=new>SUMAC'25</a> @ ACM Multimedia 2025: submit before 13/06/2025!</li>
+  <li>[31/03/2025] Website online!</li>
+</ul>
