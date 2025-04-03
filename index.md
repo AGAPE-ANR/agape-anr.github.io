@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: AGAPE - Home
 ---
 
 <h2> At a glance</h2>
