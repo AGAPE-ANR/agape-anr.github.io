@@ -11,7 +11,7 @@ permalink: /jobs/
     <th>Title</th>
     <th>Host</th>
     <th>Period</th>
-    <th>Status</th>th
+    <th>Status</th>
 </tr>
 <tr>
 	<td>Master's internship M2 2025</td>
