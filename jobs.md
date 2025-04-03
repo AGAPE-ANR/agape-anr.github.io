@@ -4,6 +4,7 @@ title: Jobs
 permalink: /jobs/
 ---
 <h2> Jobs</h2>
+<p>We regularly offer job opportunities (internships, PhD, post-doc, engineer, etc.).</p>
 
 <table width="80%" border="1" cellspacing="2" style="text-align: center; vertical-align: middle;">
 <tr>
