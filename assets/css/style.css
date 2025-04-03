@@ -9,6 +9,10 @@ header {
   padding: 1em 0;
 }
 
+h1 {
+ font-size: 5.9vw;
+}
+
 h2 {
   color: #fe7211;
   }
