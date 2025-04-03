@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jobs
+title: AGAPE - Jobs
 permalink: /jobs/
 ---
 <h2> Jobs</h2>
