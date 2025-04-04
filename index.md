@@ -14,7 +14,7 @@ title: AGAPE - Home
 <h2> Latest news!</h2>
 
 <ul style="list-style-type:circle; line-height:30px;">
-  <li><a href="news/">[31/03/2025]</a> Workshop <a href="https://sumac-workshops.github.io/2025/" target=new>SUMAC'25</a> @ACM Multimedia 2025: submit before 13/06/2025!</li>
-  <li>[31/03/2025] AGAPE website online!</li>
-  <li>[23/01/2025] Kick-off of the project</li>
+  <li>[31/03/2025] Workshop <a href="https://sumac-workshops.github.io/2025/" target=new>SUMAC'25</a> @ACM Multimedia 2025: submit before 13/06/2025! <a href="news/">More...</a></li>
+  <li>[31/03/2025] AGAPE website online! <a href="news/">More...</a></li>
+  <li>[23/01/2025] Kick-off of the project. <a href="news/">More...</a></li>
 </ul>
