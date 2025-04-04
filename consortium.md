@@ -58,7 +58,7 @@ permalink: /consortium/
 			<li>Advanced linking for the exploration of archival resources and knowledge creation</li>
 		</ul>
 	</td>
-	<td width="20%"><img src="/images/logos/logo_AnF.gif" width="100%" alt="AnF logo"></td>
+	<td width="20%"><img src="/images/logos/logo_AnF.png" width="100%" alt="AnF logo"></td>
     	</tr>
 	<tr>
     	<td>
