@@ -13,7 +13,7 @@ permalink: /news/
 		<td width="30%"><img src="/images/SUMAC25-banner.jpg" width="100%" alt="SUMAC 2025"></td>
 	</tr>
 	<tr>
-		<td>[1/03/2025</td>
+		<td>31/03/2025</td>
   		<td> AGAPE website online!</td> 
 		<td width="30%"><img src="/images/logo_AGAPE-white.png" width="100%" alt="AGAPE logo"></td>
 	</tr>
