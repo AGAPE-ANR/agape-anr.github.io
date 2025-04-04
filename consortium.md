@@ -16,7 +16,7 @@ permalink: /consortium/
 			<li>Reasoning through links for enrichment and verification</li>
 		</ul>
 	</td>
-	<td width="20%"><img src="/images/logo_LASTIG.png" width="100%" alt="LASTIG logo"></td>
+	<td width="20%"><img src="/images/logos/logo_LASTIG.png" width="100%" alt="LASTIG logo"></td>
     	</tr>
 	<tr>
     	<td>
@@ -26,7 +26,7 @@ permalink: /consortium/
 			<li>Reasoning through links for enrichment and verification</li>
 		</ul>
 	</td>
-	<td width="20%"><img src="/images/logo_IRISA.png" width="100%" alt="IRISA logo"></td>
+	<td width="20%"><img src="/images/logos/logo_IRISA.png" width="100%" alt="IRISA logo"></td>
     	</tr>
 	<tr>
     	<td>
@@ -36,7 +36,7 @@ permalink: /consortium/
 			<li>3D visualization, navigation and interaction</li>
 		</ul>
 	</td>
-	<td width="20%"><img src="/images/logo_LIRIS.png" width="100%" alt="LIRIS logo"></td>
+	<td width="20%"><img src="/images/logos/logo_LIRIS.png" width="100%" alt="LIRIS logo"></td>
     	</tr>
 	<tr>
     	<td>
@@ -46,7 +46,7 @@ permalink: /consortium/
 			<li>3D visualization, navigation and interaction</li>
 		</ul>
 	</td>
-	<td width="20%"><img src="/images/logo_Inria.png" width="100%" alt="Inria logo"></td>
+	<td width="20%"><img src="/images/logos/logo_Inria.png" width="100%" alt="Inria logo"></td>
     	</tr>
 	<tr>
     	<td>
@@ -58,7 +58,7 @@ permalink: /consortium/
 			<li>Advanced linking for the exploration of archival resources and knowledge creation</li>
 		</ul>
 	</td>
-	<td width="20%"><img src="/images/logo_AnF.gif" width="100%" alt="AnF logo"></td>
+	<td width="20%"><img src="/images/logos/logo_AnF.gif" width="100%" alt="AnF logo"></td>
     	</tr>
 	<tr>
     	<td>
@@ -67,7 +67,7 @@ permalink: /consortium/
 			<li>Storytelling for understanding and engagement</li>
 		</ul>
 	</td>
-	<td width="20%"><img src="/images/logo_FTV.png" width="100%" alt="France.tv logo"></td>
+	<td width="20%"><img src="/images/logos/logo_FTV.png" width="100%" alt="France.tv logo"></td>
     	</tr>
 	<tr>
     	<td>
@@ -76,6 +76,6 @@ permalink: /consortium/
 			<li>Visualization for the investigation of disappeared substandard housing</li>
 		</ul>
 	</td>
-	<td width="20%"><img src="/images/logo_ACP.png" width="100%" alt="ACP logo"></td>
+	<td width="20%"><img src="/images/logos/logo_ACP.png" width="100%" alt="ACP logo"></td>
     	</tr>
 </table>
