@@ -14,7 +14,8 @@ permalink: /news/
 	</tr>
 	<tr>
 		<td>[31/03/2025]</td>
-  		<td> AGAPE website online!</td> <td></td>
+  		<td> AGAPE website online!</td> 
+		<td width="30%"><img src="/images/logo_AGAPE-white.png" width="100%" alt="AGAPE logo"></td>
 	</tr>
     	<tr>
 		<td>[23/01/2025]</td>
