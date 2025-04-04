@@ -6,7 +6,7 @@ permalink: /news/
 
 <h2> News!</h2>
 
-<table width="90%">
+<table width="90%" border="0" cellpadding="8" style="text-align: center; vertical-align: middle;">
 	<tr>
 		<td> [31/03/2025]</td>
 		<td> Workshop <a href="https://sumac-workshops.github.io/2025/" target=new>SUMAC'25</a> @ACM Multimedia 2025: submit before 13/06/2025!</td>
