@@ -23,7 +23,7 @@ permalink: /jobs/
 </tr>
 <tr>
 	<td>Master's internship M2</td>
-	<td><a href="../docs/docs/LIRIS-ILDA-AR_HyperStorylines.pdf" target=new>Storytelling pour le Patrimoine Culturel</a></td>
+	<td><a href="../docs/LIRIS-ILDA-AR_HyperStorylines.pdf" target=new>Storytelling pour le Patrimoine Culturel</a></td>
 	<td>LIRIS</td>
 	<td>15/02/2025</td>
 	<td><span style="color: #fe7211;">Filled</span></td>
