@@ -50,7 +50,7 @@ permalink: /consortium/
     	</tr>
 	<tr>
     	<td>
-		<h3><a href="https://www.archives-nationales.culture.gouv.fr/" target=new> Archives nationales de France</a> </h3>
+		<h3><a href="https://www.archives-nationales.culture.gouv.fr/" target=new> Archives nationales de France</a> (Ministry of Culture)</h3>
 		<ul>
 			<li>Data provider (documented photographs and videos)</li>
 			<li>Metadata and link modeling</li>
