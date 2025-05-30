@@ -16,6 +16,13 @@ permalink: /jobs/
 </tr>
 <tr>
 	<td>Ph.D. Offer</td>
+	<td><a href="../docs/annonce_these_loc2D3D-EN.pdf" target=new>Indexing and retrieval of visual contents in 3D point clouds at large scale - Application to spatialization</a></td>
+	<td>LASTIG</td>
+	<td>14/07/2025</td>
+	<td><span style="color: #fe7211;">Ongoing</span></td>
+</tr>
+<tr>
+	<td>Ph.D. Offer</td>
 	<td><a href="../docs/AGAPE_PhD_call.pdf" target=new>Reproducible and immersive 3D Storytelling for Cultural Heritage</a></td>
 	<td>ILDA</td>
 	<td>31/07/2025</td>
