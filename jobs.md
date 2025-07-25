@@ -19,7 +19,7 @@ permalink: /jobs/
 	<td><a href="../docs/annonce_these_loc2D3D-EN.pdf" target=new>Indexing and retrieval of visual contents in 3D point clouds at large scale - Application to spatialization</a></td>
 	<td>LASTIG</td>
 	<td>14/07/2025</td>
-	<td><span style="color: #fe7211;">Ongoing</span></td>
+	<td><span style="color: #fe7211;">Filled</span></td>
 </tr>
 <tr>
 	<td>Ph.D. Offer</td>
