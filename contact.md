@@ -5,8 +5,9 @@ permalink: /contact/
 ---
 <h2>Contact</h2>
 
-If you have any questions, drop us a mail to <a href="mailto:">TODO</a>. 
+If you have any questions, drop us a mail to <a href="mailto:">agape-tous@ign.fr</a>. 
 
+<! --
 <form action="mailto:john.samuel@cpe.fr" method="POST" enctype="text/plain">
             <label for="name">Name</label>
             <input type="text" id="name" name="name" placeholder="Enter your name" required>
@@ -19,3 +20,4 @@ If you have any questions, drop us a mail to <a href="mailto:">TODO</a>.
             
             <button type="submit">Send Message</button>
         </form>
+-->
