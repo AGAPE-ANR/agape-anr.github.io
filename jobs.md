@@ -26,7 +26,7 @@ permalink: /jobs/
 	<td><a href="../docs/AGAPE_PhD_call.pdf" target=new>Reproducible and immersive 3D Storytelling for Cultural Heritage</a></td>
 	<td>ILDA</td>
 	<td>31/07/2025</td>
-	<td><span style="color: #fe7211;">Ongoing</span></td>
+	<td><span style="color: #fe7211;">Filled</span></td>
 </tr>
 <tr>
 	<td>Master's internship M2</td>
