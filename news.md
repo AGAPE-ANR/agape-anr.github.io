@@ -8,6 +8,10 @@ permalink: /news/
 
 <table width="90%" border="1" cellpadding="8" style="text-align: center; vertical-align: middle;">
 	<tr>
+		<td> 13/04/2026</td>
+		<td> Workshop <a href="https://sumac-workshops.github.io/2026/" target=new>SUMAC'26</a> @ACM Multimedia 2026: submit before 16/07/2026!</td>
+		<td width="30%"><img src="/images/SUMAC26-banner.jpg" width="100%" alt="SUMAC 2026"></td>
+	</tr><tr>
 		<td>27-28/01/2026</td>
     		<td> General assembly #3 at France Televisions, Paris</td>
 		<td width="30%"><img src="/images/GA_FTV-2728jan26.jpg" width="100%" alt="Photo AG3"></td>
