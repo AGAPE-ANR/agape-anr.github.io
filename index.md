@@ -5,7 +5,7 @@ title: AGAPE - Home
 
 <h2> At a glance</h2>
 
-**How.** AGAPE is a French 4-year project funded by the French National Research Agency (<a href="https://anr.fr/en/" target=new>ANR</a>), started in January 2025. 
+**How.** AGAPE is a French 4-year project funded by the French National Research Agency (<a href="h https://anr.fr/Projet-ANR-24-CE38-7253" target=new>ANR-24-CE38-7253</a>), started in January 2025. 
 
 **What.** The project concerns the discoverability and investigation in spatial iconographic heritage, with a focus both on their multimodal analysis, linking and confrontation and on their joint positioning in 3D context to facilitate visualization and user interaction. AGAPE will result in proofs of concept committed to make documented open-source components, with a special care on reproducibility and interoperability relying on current standards, and with the key objective of going beyond the perimeter of the project sustainably and coming to support with other interdisciplinary initiatives.
 
@@ -15,7 +15,6 @@ title: AGAPE - Home
 
 <ul style="list-style-type:circle; line-height:30px;">
   <li>[13/04/2026] Workshop <a href="https://sumac-workshops.github.io/2026/" target=new>SUMAC'26</a> @ACM Multimedia 2026: submit before 16/07/2026! <a href="news/">More...</a></li>
-  <li>[31/03/2025] Workshop <a href="https://sumac-workshops.github.io/2025/" target=new>SUMAC'25</a> @ACM Multimedia 2025: submit before 11/07/2025! <a href="news/">More...</a></li>
   <li>[31/03/2025] AGAPE website online! <a href="news/">More...</a></li>
   <li>[23/01/2025] Kick-off of the project. <a href="news/">More...</a></li>
 </ul>
