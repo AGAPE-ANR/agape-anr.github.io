@@ -8,7 +8,11 @@ permalink: /news/
 
 <table width="90%" border="1" cellpadding="8" style="text-align: center; vertical-align: middle;">
 	<tr>
-		<td>23/01/2025</td>
+		<td>27-28/01/2026</td>
+    		<td> General assembly #3 at France Televisions, Paris</td>
+		<td width="30%"><img src="/images/GA_FTV-2728jan26.jpg" width="100%" alt="Photo AG3"></td>
+	</tr><tr>
+		<td>12-13/06/2025</td>
     		<td> General assembly #2 at IRISA, Rennes</td>
 		<td width="30%"><img src="/images/GA_Rennes-1213jun25.png" width="100%" alt="Photo AG2"></td>
 	</tr>
