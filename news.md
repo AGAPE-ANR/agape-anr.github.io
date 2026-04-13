@@ -14,7 +14,7 @@ permalink: /news/
 	</tr><tr>
 		<td>12-13/06/2025</td>
     		<td> General assembly #2 at IRISA, Rennes</td>
-		<td width="30%"><img src="/images/GA_Rennes-1213jun25.png" width="100%" alt="Photo AG2"></td>
+		<td width="30%"><img src="/images/GA_Rennes-1213jun25.jpg" width="100%" alt="Photo AG2"></td>
 	</tr>
 	<tr>
 		<td> 31/03/2025</td>
