@@ -12,3 +12,7 @@ permalink: /publications/
 </ul>
 
 <h3>Miscellaneous</h3>
+
+<ul>
+<li>Valerie Gouet-Brunet, Edgar Roman-Rangel, and Li Weng, <i>SUMAC’25 : 7th Workshop on the analySis, Understanding and proMotion of heritAge Contents : Advances in Machine Learning, Signal Processing, Multimodal Techniques and Human-machine Interaction</i>, In Proceedings of the 33rd ACM International Conference on Multimedia (MM’25), pages 14286 – 14287, Dublin, Ireland, October 2025. Association for Computing Machinery, New York, USA.</li>
+</ul>
