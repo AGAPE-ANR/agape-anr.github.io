@@ -15,6 +15,12 @@ permalink: /jobs/
     <th>Status</th>
 </tr>
 <tr>
+	<td>Archivist</td>
+	<td>Processing of Photographic and Audiovisual Archives</td>
+	<td>AnF - LASTIG</td>
+	<td>01/05/2026</td>
+	<td><span style="color: #fe7211;">Filled</span></td>
+</tr><tr>
 	<td>Ph.D. Offer</td>
 	<td><a href="../docs/annonce_these_loc2D3D-EN.pdf" target=new>Indexing and retrieval of visual contents in 3D point clouds at large scale - Application to spatialization</a></td>
 	<td>LASTIG</td>
