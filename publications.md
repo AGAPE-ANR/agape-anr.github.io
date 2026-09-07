@@ -8,6 +8,7 @@ permalink: /publications/
 <h3>International conferences</h3>
 
 <ul>
+<li> Thomas Derrien, Laurent Amsaleg, Pascale Sébillot, <i>FAST-MEL: A Fast, Accurate, and Storage Efficient Solution for Multimodal Entity Linking</i>, SIGIR ’26: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, Jul 2026, Melbourne VIC Australia, pp.3676-3680, doi:10.1145/3805712.3809860.</li>
 <li>Florent Le Clerc and Valerie Gouet-Brunet, <i>Experimenting with cross-modal retrieval for geolocalization of archival images with LiDAR data</i>, 8th Workshop on AnalySis, Understanding and ProMotion of HeritAge Contents (SUMAC '26), ACM Multimedia 2026, pp. 1-8, 10 Nov. 2026, Rio de Janeiro, Brazil.</li>
 </ul>
 
