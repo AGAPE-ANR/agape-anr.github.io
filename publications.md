@@ -9,6 +9,8 @@ permalink: /publications/
 
 <ul>
 <li style="margin-bottom: 10px"> Thomas Derrien, Laurent Amsaleg, Pascale Sébillot, <i>FAST-MEL: A Fast, Accurate, and Storage Efficient Solution for Multimodal Entity Linking</i>, SIGIR ’26: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, Jul 2026, Melbourne VIC Australia, pp.3676-3680, doi:10.1145/3805712.3809860.</li>
+<li style="margin-bottom: 10px"> Akin Gulfidan, Pierre-Antoine Chiron, John Samuel, Valérie Gouet-Brunet, Gilles Gesquière, <i>Design Space for Visualizing Multimedia Documents in Spatio-Temporal-Thematic Urban Context</i>, 3D GeoInfo 2026, September 2026, Sofia, Bulgaria</li>
+<li style="margin-bottom: 10px">Diego Vinasco-Alvarez, John Samuel, Pierre-Antoine Chiron, Sylvie Servigne, Gilles Gesquiere, <i>From Versioned Cities to Versioned Documents: Extending CityRDF for Modelling Urban Documentation over Time</i>, 3D GeoInfo 2026, September 2026, Sofia, Bulgaria</li>
 <li style="margin-bottom: 10px">Florent Le Clerc and Valerie Gouet-Brunet, <i>Experimenting with cross-modal retrieval for geolocalization of archival images with LiDAR data</i>, 8th Workshop on AnalySis, Understanding and ProMotion of HeritAge Contents (SUMAC '26), ACM Multimedia 2026, pp. 1-8, 10 Nov. 2026, Rio de Janeiro, Brazil.</li>
 </ul>
 
