@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 <h2> Publications</h2>
 
-<h3>International conferences</h3>
+<h3>International conferences and workshops</h3>
 
 <ul>
 <li style="margin-bottom: 10px"> Thomas Derrien, Laurent Amsaleg, Pascale Sébillot, <i>FAST-MEL: A Fast, Accurate, and Storage Efficient Solution for Multimodal Entity Linking</i>, SIGIR ’26: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, Jul 2026, Melbourne VIC Australia, pp.3676-3680, doi:10.1145/3805712.3809860.</li>
@@ -17,7 +17,7 @@ permalink: /publications/
 <h3>National conferences and workshops</h3>
 
 <ul style="margin-bottom: 10px">
-<li style="margin-bottom: 10px">Alina Sarzhanova, Vanessa Peña-Araya,  Anastasia Bezerianos, John Samuel, <i>A Design Space for Visualising Cultural Heritage Hypergraphs in 3D Urban Environments</i>, Journée Visu 2026, June 2026, Champs-sur-Marne, France</li>
+<li style="margin-bottom: 10px">Alina Sarzhanova, Vanessa Peña-Araya,  Anastasia Bezerianos, John Samuel, <i>A Design Space for Visualising Cultural Heritage Hypergraphs in 3D Urban Environments</i>, Journée Visu 2026, June 2026, Champs-sur-Marne, France.</li>
 </ul>
 
 <h3>Miscellaneous</h3>
