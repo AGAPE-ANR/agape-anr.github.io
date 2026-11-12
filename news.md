@@ -10,7 +10,11 @@ permalink: /news/
 	<tr>
 		<td> 12/11/2026</td>
 		<td> The work accomplished during the first 18 months of the project has paid off: we've published a bunch of great articles (SIGIR, 3D GeoInfo, SUMAC@ACMMM), see <a href= "https://agape-anr.github.io/publications/">the list</a> !!!</td>
-		<td width="30%"><img src="/images/science_icon.png" width="50%" alt="science icon"></td>
+		<td width="30%"><img src="/images/science_icon.png" width="60%" alt="science icon"></td>
+	</tr><tr>
+		<td>9-10/09/2026</td>
+    		<td> General assembly #4 at LIRIS, Lyon-Villeurbanne</td>
+		<td width="30%"><img src="/images/GA_LIRIS-910sep26.jpg" width="100%" alt="Photo AG3"></td>
 	</tr><tr>
 		<td> 13/04/2026</td>
 		<td> Workshop <a href="https://sumac-workshops.github.io/2026/" target=new>SUMAC'26</a> @ACM Multimedia 2026: submit before 16/07/2026!</td>
