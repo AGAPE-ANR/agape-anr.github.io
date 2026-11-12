@@ -8,7 +8,7 @@ permalink: /news/
 
 <table width="90%" border="1" cellpadding="8" style="text-align: center; vertical-align: middle;">
 	<tr>
-		<td> 12/11/2026</td>
+		<td> 11/2026</td>
 		<td> The work accomplished during the first 18 months of the project has paid off: we've published a bunch of great articles (SIGIR, 3D GeoInfo, SUMAC@ACMMM), see <a href= "https://agape-anr.github.io/publications/">the list</a> !!!</td>
 		<td width="30%"><img src="/images/science_icon.png" width="60%" alt="science icon"></td>
 	</tr><tr>
