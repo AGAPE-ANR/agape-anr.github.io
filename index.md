@@ -14,7 +14,7 @@ title: AGAPE - Home
 <h2> Latest news!</h2>
 
 <ul style="list-style-type:circle; line-height:30px;">
+  <li> [11/2026] We've got a bunch of great articles!!! <a href="news/">More...</a></li>
+  <li> [9-10/09/2026] General assembly #4 at LIRIS, Lyon-Villeurbanne. <a href="news/">More...</a></li>
   <li>[13/04/2026] Workshop <a href="https://sumac-workshops.github.io/2026/" target=new>SUMAC'26</a> @ACM Multimedia 2026: submit before 16/07/2026! <a href="news/">More...</a></li>
-  <li>[31/03/2025] AGAPE website online! <a href="news/">More...</a></li>
-  <li>[23/01/2025] Kick-off of the project. <a href="news/">More...</a></li>
 </ul>
