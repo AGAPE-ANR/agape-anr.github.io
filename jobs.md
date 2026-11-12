@@ -15,6 +15,12 @@ permalink: /jobs/
     <th>Status</th>
 </tr>
 <tr>
+	<td>Master's internship</td>
+	<td><a href="https://www.umr-lastig.fr/vgouet/News/sujet_stage_2027-G3-ext-EN.pdf" target=new> Geolocalization of 2D and 3D data using Multimodal Large Language Models</a></td>
+	<td>LASTIG</td>
+	<td>15/12/2026</td>
+	<td><span style="color: #72fe11;">Open</span></td>
+</tr><tr>
 	<td>Archivist</td>
 	<td>Processing of Photographic and Audiovisual Archives</td>
 	<td>AnF - LASTIG</td>
